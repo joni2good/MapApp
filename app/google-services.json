@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918105015194",
+    "project_id": "chrome-formula-313310",
+    "storage_bucket": "chrome-formula-313310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918105015194:android:fedd78327aa3fa324f7023",
+        "android_client_info": {
+          "package_name": "com.example.mapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918105015194-e3kutc9a71b4uci7goseukucskt92l08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmRqRQ0wmn4N5GvcnBQ3oEk2WDTUI8aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918105015194-e3kutc9a71b4uci7goseukucskt92l08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
